@@ -1,5 +1,5 @@
 ### Hi 🤠
-# Contact
+## Contact
 If you have any questions about my code or just need to reach out to me, feel free to use some of the socials below to get in contact with me!
 
 
@@ -11,11 +11,11 @@ If you have any questions about my code or just need to reach out to me, feel fr
 </a>
 <br />
 
-# About Me
+## About Me
 I am Daniel Munoz-Lara and am a current student at Clemson University pursuing a B.S in Computer Science! <br>
 Currently working on a Price checker app using webscraping to look up the cheapest price for your favorite tech items in trusted stores!
 
-# Skills
+## Skills
 
 These are some of the languages, frameworks, and tools I am either proficient in or have prior experience in. 
 
